@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Demo\\NguyenVanSon_BTH\\NguyenVanSon_BTH.csproj",
+      "projectUniqueName": "d:\\nvs\\NguyenVanSon_BTH\\NguyenVanSon_BTH.csproj",
       "projectName": "NguyenVanSon_BTH",
-      "projectPath": "D:\\Demo\\NguyenVanSon_BTH\\NguyenVanSon_BTH.csproj",
+      "projectPath": "d:\\nvs\\NguyenVanSon_BTH\\NguyenVanSon_BTH.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Demo\\NguyenVanSon_BTH\\obj\\",
+      "outputPath": "d:\\nvs\\NguyenVanSon_BTH\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
